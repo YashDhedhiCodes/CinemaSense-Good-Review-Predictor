@@ -2,7 +2,7 @@
 # 🎭 Sentiment Analysis using Simple RNN on IMDB Dataset
 
 ## 📌 Project Overview
-This project uses a **Simple Recurrent Neural Network (SimpleRNN)** to perform sentiment analysis on movie reviews from the **IMDB dataset (10,000 reviews)** provided by `tensorflow.keras.datasets.imdb`.  
+This project uses a **Simple Recurrent Neural Network (SimpleRNN)** to perform sentiment analysis on movie reviews from the **IMDB dataset (50,000 reviews)** provided by `tensorflow.keras.datasets.imdb`.  
 Unlike traditional binary classification, the model outputs a **sentiment score as a percentage**, reflecting the likelihood that a review is positive.
 
 ## 📂 Dataset
