@@ -65,10 +65,7 @@ SimpleRNN/
 - Python  
 - TensorFlow / Keras  
 - IMDB dataset from keras.datasets  
-- Matplotlib for visualization  
 
-## 📌 Future Improvements
-- Use LSTM or GRU for better sequence modeling  
-- Add a web interface for interactive sentiment scoring  
-- Explore pretrained embeddings like GloVe or Word2Vec
+
+
      
